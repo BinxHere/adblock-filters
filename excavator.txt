@@ -1,0 +1,46 @@
+[uBlock Origin]
+! Title: BinxHere's Excavator Adblock
+! Description: For the TOR search engine ExcavaTOR there are a lot of awful advertisments and this filter aims to remove/block them. ❤️🧅
+! Note: http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion
+! Homepage: https://github.com/BinxHere/adblock-filters/tree/main
+! License: https://github.com/BinxHere/adblock-filters/blob/main/LICENSE
+! Issues: https://github.com/BinxHere/adblock-filters/issues
+! Expires: 1 day
+! Last modified: 18 Mar 2025 18:05 EST
+! Version: 1.0
+! Syntax: uBlock Origin
+! Number of entries: 32
+!
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##div.mx-auto:nth-of-type(13)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##div.mx-auto:nth-of-type(12)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##div.mx-auto:nth-of-type(11)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##div.mx-auto:nth-of-type(10)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##div.mx-auto:nth-of-type(9)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##div.mx-auto:nth-of-type(8)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##div.mx-auto:nth-of-type(7)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##div.mx-auto:nth-of-type(6)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##div.mx-auto:nth-of-type(5)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##.container > h6:nth-of-type(1)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##div.text-center.mx-auto:nth-of-type(14)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##h8
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##div.mx-auto:nth-of-type(25)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##div.mx-auto:nth-of-type(26)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##div.mx-auto:nth-of-type(27)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##hr:nth-of-type(2)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##hr:nth-of-type(3)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##hr:nth-of-type(4)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##hr:nth-of-type(5)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##hr:nth-of-type(6)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##hr:nth-of-type(7)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##hr:nth-of-type(8)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##hr:nth-of-type(9)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##hr:nth-of-type(10)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##div.text-center.mx-auto:nth-of-type(28)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##hr:nth-of-type(17)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##hr:nth-of-type(15)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##hr:nth-of-type(14)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##hr:nth-of-type(16)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##.container > hr:nth-of-type(1)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##div.mx-auto:nth-of-type(24) > hr
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##hr:nth-of-type(18)
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion##hr:nth-of-type(11)
