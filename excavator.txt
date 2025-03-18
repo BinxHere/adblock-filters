@@ -1,6 +1,6 @@
 [uBlock Origin]
-! Title: BinxHere's Excavator Adblock
-! Description: For the TOR search engine ExcavaTOR there are a lot of awful advertisments and this filter aims to remove/block them. ❤️🧅
+! Title: BinxHere's Excavator Adblock [❤️🧅]
+! Description: For the TOR search engine ExcavaTOR there are a lot of awful advertisments and this filter aims to remove/block them.
 ! Note: http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion
 ! Homepage: https://github.com/BinxHere/adblock-filters/tree/main
 ! License: https://github.com/BinxHere/adblock-filters/blob/main/LICENSE
